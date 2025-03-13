@@ -1,6 +1,6 @@
 # SGD-Regressor-for-Multivariate-Linear-Regression
-#NAME :GOPIKRISHNAN M
-#REGNO:212223043001
+## NAME : GOPIKRISHNAN M
+## REGNO: 212223043001
 
 
 ## AIM:
